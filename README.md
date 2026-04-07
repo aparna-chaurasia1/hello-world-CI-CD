@@ -1,2 +1,2 @@
 # hello-world-CI-CD
-This is a demo CICI project
+This is a demo CICD project
